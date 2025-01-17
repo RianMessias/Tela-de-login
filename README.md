@@ -15,12 +15,6 @@ Bem-vindo ao repositório da **Tela de Login**! Este projeto é uma interface si
 - **CSS3**: Estilos visuais com responsividade.
 - **JavaScript**: Interatividade e validações.
 
-## 📸 Demonstração
-
-<img src="https://via.placeholder.com/800x400?text=Tela+de+Login" alt="Demonstração da Tela de Login" style="border-radius: 8px;">
-
-> Clique [aqui](https://rianmessias.github.io/Tela-de-login/) para visualizar o projeto online. *(Substitua pelo link caso publique no GitHub Pages)*
-
 ## 🛠️ Como Usar
 
 1. Clone este repositório:
